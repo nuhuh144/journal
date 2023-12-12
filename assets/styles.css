@@ -20,19 +20,19 @@ button {
 
 body {
     margin: 0;
-    background-color: var(--co2);
+    background-color: var(--co1);
     font-family: 'Poppins', sans-serif;
 }
 
 .menu-bar {
-    background-color: var(--co1);
+    background-color: var(--co3);
     color: #fff;
     padding: 6px;
     text-align: center;
 }
 
 .menu-bar button {
-    background-color: var(--co3);
+    background-color: var(--co4);
     color: #fff;
     padding: 4px 8px;
     border: none;
